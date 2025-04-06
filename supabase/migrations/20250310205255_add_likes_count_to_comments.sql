@@ -1,0 +1,1 @@
+ALTER TABLE comments ADD COLUMN likes_count INT DEFAULT 0;
