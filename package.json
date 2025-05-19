@@ -16,7 +16,7 @@
     "react-router-dom": "^6.22.3",
     "react-syntax-highlighter": "^15.5.0",
     "react-hook-form": "^7.51.0",
-    "openai": "^4.28.0",
+    "openai": "^4.96.0",
     "@supabase/supabase-js": "^2.39.0",
     "zustand": "^4.5.0"
   },
