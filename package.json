@@ -14,7 +14,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.22.3",
-    "react-syntax-highlighter": "^15.5.0",
+    "react-syntax-highlighter": "^16.0.0",
     "react-hook-form": "^7.51.0",
     "openai": "^4.28.0",
     "@supabase/supabase-js": "^2.39.0",
